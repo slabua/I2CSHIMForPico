@@ -5,7 +5,7 @@
 I2C SHIM for Pico is a simple way to provide easy access to the I2C bus 0 and 1 on a Raspberry Pi Pico via two Qw/ST connectors.
 
 ### Product Page
-Order at: [TODO](TODO)
+Order at: [Coming Soon](TODO)
 
 ![I2CSHIMForPico-R1.0](https://github.com/user-attachments/assets/9384fbb3-90e5-438e-9473-a41e2f31ac61)
 
