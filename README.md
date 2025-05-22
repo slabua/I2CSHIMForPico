@@ -37,4 +37,8 @@ Order at: [TODO](TODO)
 |Panel Front|Panel Back|
 |![Front](https://github.com/user-attachments/assets/dd027733-3d79-4327-994f-b122ce0f1690)|![Back](https://github.com/user-attachments/assets/4de58804-5e34-4398-8cc8-7f70123fdf43)|
 
+### Schematic
+
+![Schematic](https://github.com/user-attachments/assets/e766b21a-181d-4fdd-974f-cf37224d7ac5)
+
 [^Top](#Top)
