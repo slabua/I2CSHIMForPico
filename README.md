@@ -21,9 +21,20 @@ Order at: [TODO](TODO)
   - Allows for a snug press-fit on the back of the Pico.
   - ※ Soldering is still advised.
 
-![I2CSHIMForPico-R1.0](https://github.com/user-attachments/assets/7a491bf6-0eb4-4bf2-8281-851384f83fff)
-![I2CSHIMForPico-R1.0](https://github.com/user-attachments/assets/b74e372b-e26e-4166-b6a3-4554e4567a91)
+![I2CSHIMForPico-R1.0](https://github.com/user-attachments/assets/6e963b1f-ffe9-4161-9b99-f20ee11c30d2)
 
 
+
+[^Top](#Top)
+
+
+---
+## I2C SHIM For Pico Rev 1.0 Overview
+
+|Front|Back|
+|:-:|:-:|
+|![Front](https://github.com/user-attachments/assets/7a491bf6-0eb4-4bf2-8281-851384f83fff)|![Back](https://github.com/user-attachments/assets/b74e372b-e26e-4166-b6a3-4554e4567a91)|
+|Panel Front|Panel Back|
+|![Front](https://github.com/user-attachments/assets/dd027733-3d79-4327-994f-b122ce0f1690)|![Back](https://github.com/user-attachments/assets/4de58804-5e34-4398-8cc8-7f70123fdf43)|
 
 [^Top](#Top)
