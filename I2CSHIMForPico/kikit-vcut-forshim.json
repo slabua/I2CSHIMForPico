@@ -3,7 +3,9 @@
         "hspace": "2mm",
         "vspace": "2mm",
         "rows": "5",
-        "cols": "4"
+        "cols": "4",
+        "vbonecut": "False",
+        "hbonecut": "False"
     },
     "tabs": {
         "type": "fixed",
@@ -23,15 +25,15 @@
     },
     "tooling": {
         "type": "4hole",
-        "hoffset": "2.5mm",
-        "voffset": "2.5mm",
+        "hoffset": "3mm",
+        "voffset": "3mm",
         "size": "1.152mm",
         "soldermaskmargin": "0.048mm"
     },
     "fiducials": {
         "type": "4fid",
-        "hoffset": "7.5mm",
-        "voffset": "2.5mm",
+        "hoffset": "8mm",
+        "voffset": "3mm",
         "opening": "2mm"
     },
     "text": {
