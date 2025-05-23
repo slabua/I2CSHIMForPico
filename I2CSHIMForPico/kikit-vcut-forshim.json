@@ -7,12 +7,13 @@
     },
     "tabs": {
         "type": "fixed",
-        "vwidth": "10mm",
+        "vwidth": "5mm",
         "hwidth": "5mm"
     },
     "cuts": {
         "type": "vcuts",
-        "clearance": "1.5mm"
+        "clearance": "1.5mm",
+        "layer": "Edge.Cuts"
     },
     "framing": {
         "type": "railstb",
