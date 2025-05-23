@@ -9,7 +9,8 @@ Order at:
 - [https://www.tindie.com/products/slblabs/i2c-shim-for-pico/](https://www.tindie.com/products/slblabs/i2c-shim-for-pico/)
 - [Coming Soon]
 
-![I2CSHIMForPico-R1.0](https://github.com/user-attachments/assets/9384fbb3-90e5-438e-9473-a41e2f31ac61)
+![I2CSHIMForPico-R1.0](https://github.com/user-attachments/assets/b0bbded8-7ab9-4d54-9be1-5a057a65c8f6)
+
 
 ### Features
 
@@ -23,7 +24,7 @@ Order at:
   - Allows for a snug press-fit on the back of the Pico.
   - ※ Soldering is still advised.
 
-![I2CSHIMForPico-R1.0](https://github.com/user-attachments/assets/6e963b1f-ffe9-4161-9b99-f20ee11c30d2)
+![I2CSHIMForPico-R1.0](https://github.com/user-attachments/assets/8174c24f-655e-492a-824d-2ea4dbfdbda3)
 
 
 
@@ -35,9 +36,9 @@ Order at:
 
 |Front|Back|
 |:-:|:-:|
-|![Front](https://github.com/user-attachments/assets/7a491bf6-0eb4-4bf2-8281-851384f83fff)|![Back](https://github.com/user-attachments/assets/b74e372b-e26e-4166-b6a3-4554e4567a91)|
+|![Front](https://github.com/user-attachments/assets/02a8c1ce-2dff-432c-b294-8299fe933c8c)|![Back](https://github.com/user-attachments/assets/5fd42178-ad40-4900-a69a-65d4014ba868)|
 |Panel Front|Panel Back|
-|![Front](https://github.com/user-attachments/assets/dd027733-3d79-4327-994f-b122ce0f1690)|![Back](https://github.com/user-attachments/assets/4de58804-5e34-4398-8cc8-7f70123fdf43)|
+|![Panel Front](https://github.com/user-attachments/assets/f58e8137-24b3-4d9a-a660-84e559e1a1c9)|![Panel Back](https://github.com/user-attachments/assets/c84014fb-e685-42c2-a1a5-854f7bd77345)|
 
 ### Schematic
 
