@@ -1,4 +1,4 @@
-# I2C SHIM For Pico
+# I2C SHIM for Pico
 ###### tags: `SLBLabs` `SLB Labs` `I2CSHIMForPico` `Raspberry Pi` `RaspberryPi` `Raspberry` `Pi` `Pico` `RaspberryPiPico` `RP2040` `MicroPython` `CircuitPython` `Arduino` `C/C++`
 
 ## Quickly add I2C connectors to the Pico
@@ -29,7 +29,7 @@ Order at: [Coming Soon](TODO)
 
 
 ---
-## I2C SHIM For Pico Rev 1.0 Overview
+## I2C SHIM for Pico Rev 1.0 Overview
 
 |Front|Back|
 |:-:|:-:|
