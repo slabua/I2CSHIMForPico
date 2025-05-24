@@ -9,8 +9,9 @@
     },
     "tabs": {
         "type": "fixed",
-        "vwidth": "5mm",
-        "hwidth": "5mm"
+        "vwidth": "8mm",
+        "hwidth": "5mm",
+        "hcount": "0"
     },
     "cuts": {
         "type": "vcuts",
@@ -25,15 +26,15 @@
     },
     "tooling": {
         "type": "4hole",
-        "hoffset": "3mm",
-        "voffset": "3mm",
+        "hoffset": "4mm",
+        "voffset": "4mm",
         "size": "1.152mm",
         "soldermaskmargin": "0.048mm"
     },
     "fiducials": {
         "type": "4fid",
         "hoffset": "8mm",
-        "voffset": "3mm",
+        "voffset": "4mm",
         "opening": "2mm"
     },
     "text": {
@@ -45,6 +46,19 @@
         "type": "simple",
         "voffset": "-3mm",
         "text": "www.slblabs.com",
+        "anchor": "mb"
+    },
+    "text3": {
+        "type": "simple",
+        "voffset": "3mm",
+        "layer": "B.SilkS",
+        "text": "www.slblabs.com"
+    },
+    "text4": {
+        "type": "simple",
+        "voffset": "-3mm",
+        "layer": "B.SilkS",
+        "text": "I2C SHIM for Pico",
         "anchor": "mb"
     },
     "copperfill": {
