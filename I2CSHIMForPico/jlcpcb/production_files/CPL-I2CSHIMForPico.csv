@@ -1,4 +1,4 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 J3,Conn_01x04_Socket,SLB-JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,24.99,-28.416,0.0,top
 J4,Conn_01x04_Socket,SLB-JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,32.79,-28.416,0.0,top
-RN1,4K7,R_Array_Concave_4x0603,28.89,-20.75,0.0,top
+RN1,4K7,R_Array_Convex_4x0603,29.89,-20.75,0.0,top

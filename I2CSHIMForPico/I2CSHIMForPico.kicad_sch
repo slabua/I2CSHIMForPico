@@ -6,8 +6,8 @@
 	(paper "A5")
 	(title_block
 		(title "I2C SHIM for Pico")
-		(date "2025-05-10")
-		(rev "1.0")
+		(date "2025-05-26")
+		(rev "1.1")
 		(company "Salvatore La Bua")
 	)
 	(lib_symbols
@@ -2956,7 +2956,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Array_Concave_4x0603"
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
 			(at 146.05 42.545 90)
 			(effects
 				(font
