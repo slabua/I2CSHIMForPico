@@ -637,11 +637,7 @@
     "netclass_patterns": [
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-unconnected-(J1-Pin_37-Pad37)"
-      },
-      {
-        "netclass": "Board_0-Default",
-        "pattern": "Board_0-I2C0+"
+        "pattern": "Board_0-Net-(JP1-B)"
       },
       {
         "netclass": "Board_0-Default",
@@ -649,7 +645,11 @@
       },
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-I2C1-"
+        "pattern": "Board_0-I2C0-"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-I2C0+"
       },
       {
         "netclass": "Board_0-Default",
@@ -657,35 +657,27 @@
       },
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-I2C0-"
-      },
-      {
-        "netclass": "Board_0-Default",
         "pattern": "Board_0-VBUS"
       },
       {
         "netclass": "Board_0-Default",
-        "pattern": "Board_0-GND"
+        "pattern": "Board_0-I2C1-"
       },
       {
         "netclass": "Board_0-Default",
         "pattern": "Board_0-I2C1+"
       },
       {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-VBUS"
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J1-Pin_37-Pad37)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-GND"
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-I2C0+"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-GND"
-      },
-      {
-        "netclass": "Board_1-Default",
-        "pattern": "Board_1-unconnected-(J1-Pin_37-Pad37)"
+        "pattern": "Board_1-I2C0-"
       },
       {
         "netclass": "Board_1-Default",
@@ -701,15 +693,55 @@
       },
       {
         "netclass": "Board_1-Default",
-        "pattern": "Board_1-I2C0-"
+        "pattern": "Board_1-unconnected-(J1-Pin_37-Pad37)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-VBUS"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(JP1-B)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-I2C0+"
       },
       {
         "netclass": "Board_1-Default",
         "pattern": "Board_1-I2C1+"
       },
       {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-GND"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-VSYS"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-I2C0+"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-GND"
+      },
+      {
         "netclass": "Board_2-Default",
         "pattern": "Board_2-3V3"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-I2C0-"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-Net-(JP1-B)"
+      },
+      {
+        "netclass": "Board_2-Default",
+        "pattern": "Board_2-I2C1+"
       },
       {
         "netclass": "Board_2-Default",
@@ -721,27 +753,15 @@
       },
       {
         "netclass": "Board_2-Default",
-        "pattern": "Board_2-GND"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-I2C0-"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-I2C0+"
-      },
-      {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-I2C1+"
-      },
-      {
-        "netclass": "Board_2-Default",
         "pattern": "Board_2-I2C1-"
       },
       {
-        "netclass": "Board_2-Default",
-        "pattern": "Board_2-VSYS"
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-I2C1-"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-VSYS"
       },
       {
         "netclass": "Board_3-Default",
@@ -753,7 +773,11 @@
       },
       {
         "netclass": "Board_3-Default",
-        "pattern": "Board_3-VSYS"
+        "pattern": "Board_3-I2C0-"
+      },
+      {
+        "netclass": "Board_3-Default",
+        "pattern": "Board_3-I2C0+"
       },
       {
         "netclass": "Board_3-Default",
@@ -761,51 +785,15 @@
       },
       {
         "netclass": "Board_3-Default",
-        "pattern": "Board_3-3V3"
-      },
-      {
-        "netclass": "Board_3-Default",
-        "pattern": "Board_3-I2C0-"
-      },
-      {
-        "netclass": "Board_3-Default",
         "pattern": "Board_3-unconnected-(J1-Pin_37-Pad37)"
       },
       {
         "netclass": "Board_3-Default",
-        "pattern": "Board_3-I2C1-"
+        "pattern": "Board_3-3V3"
       },
       {
         "netclass": "Board_3-Default",
-        "pattern": "Board_3-I2C0+"
-      },
-      {
-        "netclass": "Board_4-Default",
-        "pattern": "Board_4-GND"
-      },
-      {
-        "netclass": "Board_4-Default",
-        "pattern": "Board_4-I2C1-"
-      },
-      {
-        "netclass": "Board_4-Default",
-        "pattern": "Board_4-I2C0+"
-      },
-      {
-        "netclass": "Board_4-Default",
-        "pattern": "Board_4-VSYS"
-      },
-      {
-        "netclass": "Board_4-Default",
-        "pattern": "Board_4-I2C0-"
-      },
-      {
-        "netclass": "Board_4-Default",
-        "pattern": "Board_4-unconnected-(J1-Pin_37-Pad37)"
-      },
-      {
-        "netclass": "Board_4-Default",
-        "pattern": "Board_4-I2C1+"
+        "pattern": "Board_3-Net-(JP1-B)"
       },
       {
         "netclass": "Board_4-Default",
@@ -813,27 +801,39 @@
       },
       {
         "netclass": "Board_4-Default",
+        "pattern": "Board_4-I2C1-"
+      },
+      {
+        "netclass": "Board_4-Default",
+        "pattern": "Board_4-I2C0-"
+      },
+      {
+        "netclass": "Board_4-Default",
+        "pattern": "Board_4-I2C0+"
+      },
+      {
+        "netclass": "Board_4-Default",
         "pattern": "Board_4-VBUS"
       },
       {
-        "netclass": "Board_5-Default",
-        "pattern": "Board_5-unconnected-(J1-Pin_37-Pad37)"
+        "netclass": "Board_4-Default",
+        "pattern": "Board_4-VSYS"
       },
       {
-        "netclass": "Board_5-Default",
-        "pattern": "Board_5-VSYS"
+        "netclass": "Board_4-Default",
+        "pattern": "Board_4-I2C1+"
       },
       {
-        "netclass": "Board_5-Default",
-        "pattern": "Board_5-VBUS"
+        "netclass": "Board_4-Default",
+        "pattern": "Board_4-GND"
       },
       {
-        "netclass": "Board_5-Default",
-        "pattern": "Board_5-I2C0+"
+        "netclass": "Board_4-Default",
+        "pattern": "Board_4-unconnected-(J1-Pin_37-Pad37)"
       },
       {
-        "netclass": "Board_5-Default",
-        "pattern": "Board_5-GND"
+        "netclass": "Board_4-Default",
+        "pattern": "Board_4-Net-(JP1-B)"
       },
       {
         "netclass": "Board_5-Default",
@@ -841,19 +841,39 @@
       },
       {
         "netclass": "Board_5-Default",
-        "pattern": "Board_5-I2C1-"
+        "pattern": "Board_5-VBUS"
       },
       {
         "netclass": "Board_5-Default",
-        "pattern": "Board_5-I2C1+"
+        "pattern": "Board_5-unconnected-(J1-Pin_37-Pad37)"
       },
       {
         "netclass": "Board_5-Default",
         "pattern": "Board_5-3V3"
       },
       {
-        "netclass": "Board_6-Default",
-        "pattern": "Board_6-3V3"
+        "netclass": "Board_5-Default",
+        "pattern": "Board_5-I2C0+"
+      },
+      {
+        "netclass": "Board_5-Default",
+        "pattern": "Board_5-Net-(JP1-B)"
+      },
+      {
+        "netclass": "Board_5-Default",
+        "pattern": "Board_5-I2C1-"
+      },
+      {
+        "netclass": "Board_5-Default",
+        "pattern": "Board_5-VSYS"
+      },
+      {
+        "netclass": "Board_5-Default",
+        "pattern": "Board_5-GND"
+      },
+      {
+        "netclass": "Board_5-Default",
+        "pattern": "Board_5-I2C1+"
       },
       {
         "netclass": "Board_6-Default",
@@ -861,7 +881,7 @@
       },
       {
         "netclass": "Board_6-Default",
-        "pattern": "Board_6-I2C1-"
+        "pattern": "Board_6-Net-(JP1-B)"
       },
       {
         "netclass": "Board_6-Default",
@@ -869,15 +889,7 @@
       },
       {
         "netclass": "Board_6-Default",
-        "pattern": "Board_6-unconnected-(J1-Pin_37-Pad37)"
-      },
-      {
-        "netclass": "Board_6-Default",
-        "pattern": "Board_6-VSYS"
-      },
-      {
-        "netclass": "Board_6-Default",
-        "pattern": "Board_6-I2C0-"
+        "pattern": "Board_6-GND"
       },
       {
         "netclass": "Board_6-Default",
@@ -885,7 +897,23 @@
       },
       {
         "netclass": "Board_6-Default",
-        "pattern": "Board_6-GND"
+        "pattern": "Board_6-VSYS"
+      },
+      {
+        "netclass": "Board_6-Default",
+        "pattern": "Board_6-3V3"
+      },
+      {
+        "netclass": "Board_6-Default",
+        "pattern": "Board_6-unconnected-(J1-Pin_37-Pad37)"
+      },
+      {
+        "netclass": "Board_6-Default",
+        "pattern": "Board_6-I2C0-"
+      },
+      {
+        "netclass": "Board_6-Default",
+        "pattern": "Board_6-I2C1-"
       },
       {
         "netclass": "Board_7-Default",
@@ -893,23 +921,19 @@
       },
       {
         "netclass": "Board_7-Default",
+        "pattern": "Board_7-VSYS"
+      },
+      {
+        "netclass": "Board_7-Default",
+        "pattern": "Board_7-Net-(JP1-B)"
+      },
+      {
+        "netclass": "Board_7-Default",
         "pattern": "Board_7-I2C1-"
       },
       {
         "netclass": "Board_7-Default",
-        "pattern": "Board_7-I2C1+"
-      },
-      {
-        "netclass": "Board_7-Default",
-        "pattern": "Board_7-3V3"
-      },
-      {
-        "netclass": "Board_7-Default",
-        "pattern": "Board_7-I2C0+"
-      },
-      {
-        "netclass": "Board_7-Default",
-        "pattern": "Board_7-VSYS"
+        "pattern": "Board_7-GND"
       },
       {
         "netclass": "Board_7-Default",
@@ -921,11 +945,15 @@
       },
       {
         "netclass": "Board_7-Default",
-        "pattern": "Board_7-GND"
+        "pattern": "Board_7-3V3"
       },
       {
-        "netclass": "Board_8-Default",
-        "pattern": "Board_8-3V3"
+        "netclass": "Board_7-Default",
+        "pattern": "Board_7-I2C1+"
+      },
+      {
+        "netclass": "Board_7-Default",
+        "pattern": "Board_7-I2C0+"
       },
       {
         "netclass": "Board_8-Default",
@@ -933,15 +961,11 @@
       },
       {
         "netclass": "Board_8-Default",
-        "pattern": "Board_8-I2C1-"
+        "pattern": "Board_8-Net-(JP1-B)"
       },
       {
         "netclass": "Board_8-Default",
-        "pattern": "Board_8-unconnected-(J1-Pin_37-Pad37)"
-      },
-      {
-        "netclass": "Board_8-Default",
-        "pattern": "Board_8-VSYS"
+        "pattern": "Board_8-3V3"
       },
       {
         "netclass": "Board_8-Default",
@@ -949,7 +973,15 @@
       },
       {
         "netclass": "Board_8-Default",
+        "pattern": "Board_8-I2C0+"
+      },
+      {
+        "netclass": "Board_8-Default",
         "pattern": "Board_8-GND"
+      },
+      {
+        "netclass": "Board_8-Default",
+        "pattern": "Board_8-VSYS"
       },
       {
         "netclass": "Board_8-Default",
@@ -957,19 +989,11 @@
       },
       {
         "netclass": "Board_8-Default",
-        "pattern": "Board_8-I2C0+"
+        "pattern": "Board_8-unconnected-(J1-Pin_37-Pad37)"
       },
       {
-        "netclass": "Board_9-Default",
-        "pattern": "Board_9-3V3"
-      },
-      {
-        "netclass": "Board_9-Default",
-        "pattern": "Board_9-I2C1-"
-      },
-      {
-        "netclass": "Board_9-Default",
-        "pattern": "Board_9-I2C0-"
+        "netclass": "Board_8-Default",
+        "pattern": "Board_8-I2C1-"
       },
       {
         "netclass": "Board_9-Default",
@@ -977,7 +1001,19 @@
       },
       {
         "netclass": "Board_9-Default",
-        "pattern": "Board_9-I2C0+"
+        "pattern": "Board_9-3V3"
+      },
+      {
+        "netclass": "Board_9-Default",
+        "pattern": "Board_9-I2C0-"
+      },
+      {
+        "netclass": "Board_9-Default",
+        "pattern": "Board_9-I2C1+"
+      },
+      {
+        "netclass": "Board_9-Default",
+        "pattern": "Board_9-Net-(JP1-B)"
       },
       {
         "netclass": "Board_9-Default",
@@ -985,43 +1021,19 @@
       },
       {
         "netclass": "Board_9-Default",
-        "pattern": "Board_9-VSYS"
-      },
-      {
-        "netclass": "Board_9-Default",
         "pattern": "Board_9-GND"
       },
       {
         "netclass": "Board_9-Default",
-        "pattern": "Board_9-I2C1+"
+        "pattern": "Board_9-I2C0+"
       },
       {
-        "netclass": "Board_10-Default",
-        "pattern": "Board_10-3V3"
+        "netclass": "Board_9-Default",
+        "pattern": "Board_9-I2C1-"
       },
       {
-        "netclass": "Board_10-Default",
-        "pattern": "Board_10-I2C0-"
-      },
-      {
-        "netclass": "Board_10-Default",
-        "pattern": "Board_10-GND"
-      },
-      {
-        "netclass": "Board_10-Default",
-        "pattern": "Board_10-unconnected-(J1-Pin_37-Pad37)"
-      },
-      {
-        "netclass": "Board_10-Default",
-        "pattern": "Board_10-I2C1+"
-      },
-      {
-        "netclass": "Board_10-Default",
-        "pattern": "Board_10-VSYS"
-      },
-      {
-        "netclass": "Board_10-Default",
-        "pattern": "Board_10-I2C0+"
+        "netclass": "Board_9-Default",
+        "pattern": "Board_9-VSYS"
       },
       {
         "netclass": "Board_10-Default",
@@ -1029,23 +1041,39 @@
       },
       {
         "netclass": "Board_10-Default",
+        "pattern": "Board_10-I2C0-"
+      },
+      {
+        "netclass": "Board_10-Default",
         "pattern": "Board_10-I2C1-"
       },
       {
-        "netclass": "Board_11-Default",
-        "pattern": "Board_11-I2C1-"
+        "netclass": "Board_10-Default",
+        "pattern": "Board_10-VSYS"
       },
       {
-        "netclass": "Board_11-Default",
-        "pattern": "Board_11-I2C0+"
+        "netclass": "Board_10-Default",
+        "pattern": "Board_10-I2C1+"
       },
       {
-        "netclass": "Board_11-Default",
-        "pattern": "Board_11-I2C0-"
+        "netclass": "Board_10-Default",
+        "pattern": "Board_10-I2C0+"
       },
       {
-        "netclass": "Board_11-Default",
-        "pattern": "Board_11-3V3"
+        "netclass": "Board_10-Default",
+        "pattern": "Board_10-GND"
+      },
+      {
+        "netclass": "Board_10-Default",
+        "pattern": "Board_10-3V3"
+      },
+      {
+        "netclass": "Board_10-Default",
+        "pattern": "Board_10-Net-(JP1-B)"
+      },
+      {
+        "netclass": "Board_10-Default",
+        "pattern": "Board_10-unconnected-(J1-Pin_37-Pad37)"
       },
       {
         "netclass": "Board_11-Default",
@@ -1057,7 +1085,11 @@
       },
       {
         "netclass": "Board_11-Default",
-        "pattern": "Board_11-VBUS"
+        "pattern": "Board_11-Net-(JP1-B)"
+      },
+      {
+        "netclass": "Board_11-Default",
+        "pattern": "Board_11-I2C0+"
       },
       {
         "netclass": "Board_11-Default",
@@ -1065,11 +1097,27 @@
       },
       {
         "netclass": "Board_11-Default",
+        "pattern": "Board_11-I2C0-"
+      },
+      {
+        "netclass": "Board_11-Default",
+        "pattern": "Board_11-I2C1-"
+      },
+      {
+        "netclass": "Board_11-Default",
         "pattern": "Board_11-I2C1+"
       },
       {
+        "netclass": "Board_11-Default",
+        "pattern": "Board_11-VBUS"
+      },
+      {
+        "netclass": "Board_11-Default",
+        "pattern": "Board_11-3V3"
+      },
+      {
         "netclass": "Board_12-Default",
-        "pattern": "Board_12-GND"
+        "pattern": "Board_12-I2C0-"
       },
       {
         "netclass": "Board_12-Default",
@@ -1077,23 +1125,7 @@
       },
       {
         "netclass": "Board_12-Default",
-        "pattern": "Board_12-unconnected-(J1-Pin_37-Pad37)"
-      },
-      {
-        "netclass": "Board_12-Default",
         "pattern": "Board_12-VBUS"
-      },
-      {
-        "netclass": "Board_12-Default",
-        "pattern": "Board_12-VSYS"
-      },
-      {
-        "netclass": "Board_12-Default",
-        "pattern": "Board_12-3V3"
-      },
-      {
-        "netclass": "Board_12-Default",
-        "pattern": "Board_12-I2C0+"
       },
       {
         "netclass": "Board_12-Default",
@@ -1101,7 +1133,27 @@
       },
       {
         "netclass": "Board_12-Default",
-        "pattern": "Board_12-I2C0-"
+        "pattern": "Board_12-VSYS"
+      },
+      {
+        "netclass": "Board_12-Default",
+        "pattern": "Board_12-I2C0+"
+      },
+      {
+        "netclass": "Board_12-Default",
+        "pattern": "Board_12-3V3"
+      },
+      {
+        "netclass": "Board_12-Default",
+        "pattern": "Board_12-Net-(JP1-B)"
+      },
+      {
+        "netclass": "Board_12-Default",
+        "pattern": "Board_12-unconnected-(J1-Pin_37-Pad37)"
+      },
+      {
+        "netclass": "Board_12-Default",
+        "pattern": "Board_12-GND"
       },
       {
         "netclass": "Board_13-Default",
@@ -1109,15 +1161,7 @@
       },
       {
         "netclass": "Board_13-Default",
-        "pattern": "Board_13-I2C1-"
-      },
-      {
-        "netclass": "Board_13-Default",
-        "pattern": "Board_13-I2C0-"
-      },
-      {
-        "netclass": "Board_13-Default",
-        "pattern": "Board_13-GND"
+        "pattern": "Board_13-unconnected-(J1-Pin_37-Pad37)"
       },
       {
         "netclass": "Board_13-Default",
@@ -1125,11 +1169,7 @@
       },
       {
         "netclass": "Board_13-Default",
-        "pattern": "Board_13-VSYS"
-      },
-      {
-        "netclass": "Board_13-Default",
-        "pattern": "Board_13-unconnected-(J1-Pin_37-Pad37)"
+        "pattern": "Board_13-GND"
       },
       {
         "netclass": "Board_13-Default",
@@ -1137,15 +1177,23 @@
       },
       {
         "netclass": "Board_13-Default",
+        "pattern": "Board_13-I2C1-"
+      },
+      {
+        "netclass": "Board_13-Default",
         "pattern": "Board_13-I2C1+"
       },
       {
-        "netclass": "Board_14-Default",
-        "pattern": "Board_14-3V3"
+        "netclass": "Board_13-Default",
+        "pattern": "Board_13-VSYS"
       },
       {
-        "netclass": "Board_14-Default",
-        "pattern": "Board_14-GND"
+        "netclass": "Board_13-Default",
+        "pattern": "Board_13-I2C0-"
+      },
+      {
+        "netclass": "Board_13-Default",
+        "pattern": "Board_13-Net-(JP1-B)"
       },
       {
         "netclass": "Board_14-Default",
@@ -1153,15 +1201,7 @@
       },
       {
         "netclass": "Board_14-Default",
-        "pattern": "Board_14-unconnected-(J1-Pin_37-Pad37)"
-      },
-      {
-        "netclass": "Board_14-Default",
-        "pattern": "Board_14-I2C0+"
-      },
-      {
-        "netclass": "Board_14-Default",
-        "pattern": "Board_14-I2C1-"
+        "pattern": "Board_14-VBUS"
       },
       {
         "netclass": "Board_14-Default",
@@ -1169,7 +1209,27 @@
       },
       {
         "netclass": "Board_14-Default",
-        "pattern": "Board_14-VBUS"
+        "pattern": "Board_14-I2C1-"
+      },
+      {
+        "netclass": "Board_14-Default",
+        "pattern": "Board_14-unconnected-(J1-Pin_37-Pad37)"
+      },
+      {
+        "netclass": "Board_14-Default",
+        "pattern": "Board_14-GND"
+      },
+      {
+        "netclass": "Board_14-Default",
+        "pattern": "Board_14-Net-(JP1-B)"
+      },
+      {
+        "netclass": "Board_14-Default",
+        "pattern": "Board_14-3V3"
+      },
+      {
+        "netclass": "Board_14-Default",
+        "pattern": "Board_14-I2C0+"
       },
       {
         "netclass": "Board_14-Default",
@@ -1181,15 +1241,15 @@
       },
       {
         "netclass": "Board_15-Default",
+        "pattern": "Board_15-I2C0+"
+      },
+      {
+        "netclass": "Board_15-Default",
         "pattern": "Board_15-I2C0-"
       },
       {
         "netclass": "Board_15-Default",
-        "pattern": "Board_15-VBUS"
-      },
-      {
-        "netclass": "Board_15-Default",
-        "pattern": "Board_15-I2C0+"
+        "pattern": "Board_15-Net-(JP1-B)"
       },
       {
         "netclass": "Board_15-Default",
@@ -1197,11 +1257,15 @@
       },
       {
         "netclass": "Board_15-Default",
-        "pattern": "Board_15-VSYS"
+        "pattern": "Board_15-I2C1+"
       },
       {
         "netclass": "Board_15-Default",
-        "pattern": "Board_15-I2C1+"
+        "pattern": "Board_15-3V3"
+      },
+      {
+        "netclass": "Board_15-Default",
+        "pattern": "Board_15-VSYS"
       },
       {
         "netclass": "Board_15-Default",
@@ -1209,27 +1273,11 @@
       },
       {
         "netclass": "Board_15-Default",
-        "pattern": "Board_15-3V3"
+        "pattern": "Board_15-VBUS"
       },
       {
         "netclass": "Board_16-Default",
-        "pattern": "Board_16-I2C0-"
-      },
-      {
-        "netclass": "Board_16-Default",
-        "pattern": "Board_16-I2C1+"
-      },
-      {
-        "netclass": "Board_16-Default",
-        "pattern": "Board_16-3V3"
-      },
-      {
-        "netclass": "Board_16-Default",
-        "pattern": "Board_16-unconnected-(J1-Pin_37-Pad37)"
-      },
-      {
-        "netclass": "Board_16-Default",
-        "pattern": "Board_16-I2C1-"
+        "pattern": "Board_16-GND"
       },
       {
         "netclass": "Board_16-Default",
@@ -1237,7 +1285,27 @@
       },
       {
         "netclass": "Board_16-Default",
+        "pattern": "Board_16-3V3"
+      },
+      {
+        "netclass": "Board_16-Default",
+        "pattern": "Board_16-Net-(JP1-B)"
+      },
+      {
+        "netclass": "Board_16-Default",
         "pattern": "Board_16-VSYS"
+      },
+      {
+        "netclass": "Board_16-Default",
+        "pattern": "Board_16-I2C1-"
+      },
+      {
+        "netclass": "Board_16-Default",
+        "pattern": "Board_16-unconnected-(J1-Pin_37-Pad37)"
+      },
+      {
+        "netclass": "Board_16-Default",
+        "pattern": "Board_16-I2C0-"
       },
       {
         "netclass": "Board_16-Default",
@@ -1245,23 +1313,11 @@
       },
       {
         "netclass": "Board_16-Default",
-        "pattern": "Board_16-GND"
+        "pattern": "Board_16-I2C1+"
       },
       {
         "netclass": "Board_17-Default",
-        "pattern": "Board_17-I2C1-"
-      },
-      {
-        "netclass": "Board_17-Default",
-        "pattern": "Board_17-I2C0-"
-      },
-      {
-        "netclass": "Board_17-Default",
-        "pattern": "Board_17-VBUS"
-      },
-      {
-        "netclass": "Board_17-Default",
-        "pattern": "Board_17-unconnected-(J1-Pin_37-Pad37)"
+        "pattern": "Board_17-I2C1+"
       },
       {
         "netclass": "Board_17-Default",
@@ -1269,7 +1325,11 @@
       },
       {
         "netclass": "Board_17-Default",
-        "pattern": "Board_17-VSYS"
+        "pattern": "Board_17-Net-(JP1-B)"
+      },
+      {
+        "netclass": "Board_17-Default",
+        "pattern": "Board_17-VBUS"
       },
       {
         "netclass": "Board_17-Default",
@@ -1277,39 +1337,23 @@
       },
       {
         "netclass": "Board_17-Default",
-        "pattern": "Board_17-3V3"
+        "pattern": "Board_17-I2C1-"
       },
       {
         "netclass": "Board_17-Default",
-        "pattern": "Board_17-I2C1+"
+        "pattern": "Board_17-unconnected-(J1-Pin_37-Pad37)"
       },
       {
-        "netclass": "Board_18-Default",
-        "pattern": "Board_18-VBUS"
+        "netclass": "Board_17-Default",
+        "pattern": "Board_17-I2C0-"
       },
       {
-        "netclass": "Board_18-Default",
-        "pattern": "Board_18-I2C1-"
+        "netclass": "Board_17-Default",
+        "pattern": "Board_17-VSYS"
       },
       {
-        "netclass": "Board_18-Default",
-        "pattern": "Board_18-VSYS"
-      },
-      {
-        "netclass": "Board_18-Default",
-        "pattern": "Board_18-unconnected-(J1-Pin_37-Pad37)"
-      },
-      {
-        "netclass": "Board_18-Default",
-        "pattern": "Board_18-I2C0-"
-      },
-      {
-        "netclass": "Board_18-Default",
-        "pattern": "Board_18-GND"
-      },
-      {
-        "netclass": "Board_18-Default",
-        "pattern": "Board_18-3V3"
+        "netclass": "Board_17-Default",
+        "pattern": "Board_17-3V3"
       },
       {
         "netclass": "Board_18-Default",
@@ -1317,27 +1361,43 @@
       },
       {
         "netclass": "Board_18-Default",
+        "pattern": "Board_18-VSYS"
+      },
+      {
+        "netclass": "Board_18-Default",
+        "pattern": "Board_18-VBUS"
+      },
+      {
+        "netclass": "Board_18-Default",
+        "pattern": "Board_18-Net-(JP1-B)"
+      },
+      {
+        "netclass": "Board_18-Default",
+        "pattern": "Board_18-GND"
+      },
+      {
+        "netclass": "Board_18-Default",
+        "pattern": "Board_18-unconnected-(J1-Pin_37-Pad37)"
+      },
+      {
+        "netclass": "Board_18-Default",
+        "pattern": "Board_18-I2C1-"
+      },
+      {
+        "netclass": "Board_18-Default",
+        "pattern": "Board_18-3V3"
+      },
+      {
+        "netclass": "Board_18-Default",
         "pattern": "Board_18-I2C1+"
+      },
+      {
+        "netclass": "Board_18-Default",
+        "pattern": "Board_18-I2C0-"
       },
       {
         "netclass": "Board_19-Default",
         "pattern": "Board_19-unconnected-(J1-Pin_37-Pad37)"
-      },
-      {
-        "netclass": "Board_19-Default",
-        "pattern": "Board_19-GND"
-      },
-      {
-        "netclass": "Board_19-Default",
-        "pattern": "Board_19-I2C1-"
-      },
-      {
-        "netclass": "Board_19-Default",
-        "pattern": "Board_19-VBUS"
-      },
-      {
-        "netclass": "Board_19-Default",
-        "pattern": "Board_19-3V3"
       },
       {
         "netclass": "Board_19-Default",
@@ -1349,11 +1409,31 @@
       },
       {
         "netclass": "Board_19-Default",
-        "pattern": "Board_19-VSYS"
+        "pattern": "Board_19-3V3"
+      },
+      {
+        "netclass": "Board_19-Default",
+        "pattern": "Board_19-GND"
+      },
+      {
+        "netclass": "Board_19-Default",
+        "pattern": "Board_19-Net-(JP1-B)"
+      },
+      {
+        "netclass": "Board_19-Default",
+        "pattern": "Board_19-I2C1-"
+      },
+      {
+        "netclass": "Board_19-Default",
+        "pattern": "Board_19-VBUS"
       },
       {
         "netclass": "Board_19-Default",
         "pattern": "Board_19-I2C1+"
+      },
+      {
+        "netclass": "Board_19-Default",
+        "pattern": "Board_19-VSYS"
       }
     ]
   },
