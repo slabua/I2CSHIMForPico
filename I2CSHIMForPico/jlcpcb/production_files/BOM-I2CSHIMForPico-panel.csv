@@ -1,3 +1,3 @@
 Comment,Designator,Footprint,LCSC,Quantity
 Conn_01x04_Socket,"J3,J4",SLB-JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,C160404,2
-4K7,RN1,R_Array_Convex_4x0603,C1980,1
+4K7,RN1,R_Array_Concave_4x0603,C1980,1
