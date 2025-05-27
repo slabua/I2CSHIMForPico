@@ -1802,7 +1802,7 @@
 	)
 	(text "Pull-up"
 		(exclude_from_sim no)
-		(at 133.35 35.56 0)
+		(at 133.35 30.48 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1811,7 +1811,7 @@
 		(uuid "1c40b8b6-146f-4439-ad6a-8c1aa2591671")
 	)
 	(junction
-		(at 140.97 35.56)
+		(at 140.97 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "18af345b-5ee0-40c5-b47d-4e95053fd3ed")
@@ -1823,7 +1823,7 @@
 		(uuid "298add47-87bf-4940-a18c-49638c3b6716")
 	)
 	(junction
-		(at 140.97 33.02)
+		(at 140.97 27.94)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "557d12f1-2041-4889-8aed-f01acdf2613a")
@@ -1835,7 +1835,7 @@
 		(uuid "d03fb815-39f2-4aef-a69d-bf55f9ee2e40")
 	)
 	(junction
-		(at 140.97 38.1)
+		(at 140.97 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e9d01622-3bbb-4306-8dfa-36866c56eee8")
@@ -1846,7 +1846,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 33.02) (xy 152.4 33.02)
+			(xy 151.13 27.94) (xy 152.4 27.94)
 		)
 		(stroke
 			(width 0)
@@ -1856,7 +1856,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 30.48) (xy 140.97 33.02)
+			(xy 140.97 25.4) (xy 140.97 27.94)
 		)
 		(stroke
 			(width 0)
@@ -1876,7 +1876,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 35.56) (xy 140.97 38.1)
+			(xy 140.97 30.48) (xy 140.97 33.02)
 		)
 		(stroke
 			(width 0)
@@ -1886,7 +1886,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 38.1) (xy 152.4 38.1)
+			(xy 151.13 33.02) (xy 152.4 33.02)
 		)
 		(stroke
 			(width 0)
@@ -1896,7 +1896,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 38.1) (xy 129.54 38.1)
+			(xy 125.73 33.02) (xy 129.54 33.02)
 		)
 		(stroke
 			(width 0)
@@ -1906,7 +1906,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 38.1) (xy 140.97 38.1)
+			(xy 137.16 33.02) (xy 140.97 33.02)
 		)
 		(stroke
 			(width 0)
@@ -1936,7 +1936,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 35.56) (xy 152.4 35.56)
+			(xy 151.13 30.48) (xy 152.4 30.48)
 		)
 		(stroke
 			(width 0)
@@ -1946,7 +1946,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 30.48) (xy 152.4 30.48)
+			(xy 151.13 25.4) (xy 152.4 25.4)
 		)
 		(stroke
 			(width 0)
@@ -1966,7 +1966,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 33.02) (xy 140.97 35.56)
+			(xy 140.97 27.94) (xy 140.97 30.48)
 		)
 		(stroke
 			(width 0)
@@ -2020,7 +2020,7 @@
 	)
 	(global_label "I2C0+"
 		(shape input)
-		(at 152.4 30.48 0)
+		(at 152.4 25.4 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2030,7 +2030,7 @@
 		)
 		(uuid "0d50c5b1-bf6b-4d83-a666-1c42b3303242")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 161.2514 30.48 0)
+			(at 161.2514 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2086,7 +2086,7 @@
 	)
 	(global_label "I2C1-"
 		(shape input)
-		(at 152.4 38.1 0)
+		(at 152.4 33.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2096,7 +2096,7 @@
 		)
 		(uuid "1938a4cd-011b-43da-b473-9bd7ee65bfc6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 161.2514 38.1 0)
+			(at 161.2514 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2108,7 +2108,7 @@
 	)
 	(global_label "I2C0-"
 		(shape input)
-		(at 152.4 33.02 0)
+		(at 152.4 27.94 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2118,7 +2118,7 @@
 		)
 		(uuid "24aa6e9f-5b68-4daf-9825-aef9ff944693")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 161.2514 33.02 0)
+			(at 161.2514 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2174,7 +2174,7 @@
 	)
 	(global_label "3V3"
 		(shape input)
-		(at 125.73 38.1 180)
+		(at 125.73 33.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2184,7 +2184,7 @@
 		)
 		(uuid "3a6bf668-07d6-47c6-b2a4-62ac62196c82")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 119.2372 38.1 0)
+			(at 119.2372 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2460,7 +2460,7 @@
 	)
 	(global_label "I2C1+"
 		(shape input)
-		(at 152.4 35.56 0)
+		(at 152.4 30.48 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2470,7 +2470,7 @@
 		)
 		(uuid "f9f44b61-8fc7-4f7d-9d91-10ff960043ce")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 161.2514 35.56 0)
+			(at 161.2514 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2504,7 +2504,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 133.35 38.1 0)
+		(at 133.35 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -2512,7 +2512,7 @@
 		(dnp no)
 		(uuid "29629e49-a77e-407e-a644-9d756ae1f471")
 		(property "Reference" "JP1"
-			(at 133.35 41.91 0)
+			(at 133.35 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2520,7 +2520,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 133.35 44.45 0)
+			(at 133.35 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2528,7 +2528,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
-			(at 133.35 38.1 0)
+			(at 133.35 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2537,7 +2537,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 38.1 0)
+			(at 133.35 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2546,7 +2546,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 133.35 38.1 0)
+			(at 133.35 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2932,7 +2932,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04")
-		(at 146.05 35.56 270)
+		(at 146.05 30.48 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2941,7 +2941,7 @@
 		(fields_autoplaced yes)
 		(uuid "908d4e15-241c-45bb-a440-8dcb712a9067")
 		(property "Reference" "RN1"
-			(at 146.05 24.13 90)
+			(at 146.05 19.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2949,15 +2949,15 @@
 			)
 		)
 		(property "Value" "4K7"
-			(at 146.05 26.67 90)
+			(at 146.05 21.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
-			(at 146.05 42.545 90)
+		(property "Footprint" "Resistor_SMD:R_Array_Concave_4x0603"
+			(at 146.05 37.465 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2966,7 +2966,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 146.05 35.56 0)
+			(at 146.05 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2975,7 +2975,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology"
-			(at 146.05 35.56 0)
+			(at 146.05 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2984,7 +2984,7 @@
 			)
 		)
 		(property "LCSC" "C1980"
-			(at 146.05 35.56 90)
+			(at 146.05 30.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
